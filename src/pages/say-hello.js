@@ -11,5 +11,5 @@ const SayHello = () => {
         </div>
     )
 }
-export const Head = () => <Title>Say Hello!</Title>
+export const Head = () => <title>Say Hello!</title>
 export default SayHello
