@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmy_first_gatsby_site=self.webpackChunkmy_first_gatsby_site||[]).push([[795],{5864:function(e,t,n){n.r(t),n.d(t,{Head:function(){return r},default:function(){return c}});var a=n(7294);var l=e=>a.createElement("p",null,"Hi ",e.name,"!");const r=()=>a.createElement("title",null,"Say Hello!");var c=()=>a.createElement("div",null,a.createElement(l,{name:"Megan"}),a.createElement(l,{name:"Obinna"}),a.createElement(l,{name:"Generosa"}))}}]);
+//# sourceMappingURL=component---src-pages-say-hello-js-702ae591024d6168603d.js.map
