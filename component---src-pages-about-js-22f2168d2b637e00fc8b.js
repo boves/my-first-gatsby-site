@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmy_first_gatsby_site=self.webpackChunkmy_first_gatsby_site||[]).push([[682],{5465:function(e,t,n){n.r(t),n.d(t,{Head:function(){return a}});var s=n(7294);const a=()=>s.createElement("title",null,"About Me");t.default=()=>s.createElement("main",null,s.createElement("h1",null,"About Me"),s.createElement("p",null,"Hi there! I'm Daiv. I made this site to learn how to make new sites from scratch using Gatsby."))}}]);
+//# sourceMappingURL=component---src-pages-about-js-22f2168d2b637e00fc8b.js.map
