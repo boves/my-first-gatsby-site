@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkmy_first_gatsby_site=self.webpackChunkmy_first_gatsby_site||[]).push([[822],{1801:function(e,t,l){l.r(t),l.d(t,{default:function(){return s}});var n=l(7294);var r=e=>{let{children:t}=e;return n.createElement("div",null,n.createElement("h1",null,"This is the page title"),t)};var s=()=>n.createElement(r,null,n.createElement("p",null,"This will be passed in as children"))}}]);
-//# sourceMappingURL=component---src-pages-gallery-js-7eeae59648a02ddf5f56.js.map
