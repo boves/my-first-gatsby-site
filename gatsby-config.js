@@ -6,9 +6,17 @@ module.exports = {
     title: `My First Gatsby Site`,
     siteUrl: `https://www.yourdomain.tld`,
   },
+  pathPrefix: "/my-first-gatsby-site",
   plugins: [
     "gatsby-plugin-image",
     "gatsby-plugin-sharp",
     "gatsby-transformer-sharp",
+    {
+      resolve: 'gatsby-source-filesystem',
+      options: {
+        name: 'images',
+        path: './src/images'
+      },
+    },
   ],
 }
